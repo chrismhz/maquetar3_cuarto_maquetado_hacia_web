@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    background: red;
+}
+
+body{
+    width: 1200px;
+    height: 1200px;
+    background: white;
+    margin: auto;
+}
+
+header{
+    width: 1200px;
+    height: 100px;
+    background: white;
+}
+#section1{
+    width: 300px;
+    height: 100px;
+    background: rgb(235, 14, 187);
+    float: left;
+}
+#logo{
+    width: 300px;
+    height: 50px;
+    background: yellow;
+}
+#slogan{
+    width: 300px;
+    height: 50px;
+    background: rgb(77, 51, 3);
+}
+#titulo{
+    width: 600px;
+    height: 100px;
+    background: green;
+    float: left;
+}
+#section2{
+    width: 300px;
+    height: 100px;
+    background: white;
+    float: left;
+}
+#buscador{
+    width: 300px;
+    height: 50px;
+    background: pink;
+}
+#redes{
+    width: 300px;
+    height: 50px;
+    background: rgb(170, 187, 19);
+}
+main{
+    width: 1200px;
+    height: 1050px;
+    background: rgb(8, 143, 176);
+}
+nav{
+    width: 1200px;
+    height: 50px;
+    background: purple;
+}
+aside{
+    width: 200px;
+    height: 1000px;
+    background: orange;
+    float: left;
+}
+section{
+    width: 500px;
+    height: 500px;
+    background: white;
+    float: left;
+}
+#article1{
+    width: 250px;
+    height: 500px;
+    background: green;
+    float: left;
+}
+#article2{
+    width: 250px;
+    height: 500px;
+    background: rgb(233, 62, 62);
+    float: left;
+}
+#article3{
+    width: 250px;
+    height: 500px;
+    background: rgb(0, 255, 242);
+    float: left;
+}
+#article4{
+    width: 250px;
+    height: 500px;
+    background: rgb(234, 0, 255);
+    float: left;
+}
+#article5{
+    width: 500px;
+    height: 500px;
+    background: rgb(170, 100, 20);
+    float: left;
+}
+#article6{
+    width: 500px;
+    height: 500px;
+    background: grey;
+    float: left;
+}
+footer{
+    width: 1200px;
+    height: 50px;
+    background: blue;
+}
